@@ -1,5 +1,5 @@
 # 6016
-
+This is a project done by me(Ruoyan Chen), and my teammates Shaoran Li, Wenxi Zhao, and Fang You.
 This project aims to predict price movement of a designated stock during a fixed time frame using neural
 network models. The motivation comes from the increasing usage of electronic-trading platform in
 day-to-day trading activities, whereas the automation of movement of mid-price and price spread crossing
